@@ -1,0 +1,50 @@
+#navbar{
+    height: 95px;
+    background-color: rgb(194, 51, 41);
+    color: white; 
+    position: sticky;
+}
+
+h1{
+   margin-left: 25px;
+   font-size: 5px;
+}
+
+ul li{
+    display: inline;
+    float: right;
+    text-decoration: none;
+    position: relative;
+    top: -55px;
+    font-size: 18px;
+
+}
+
+li a{
+    overflow: hidden;
+    text-decoration: none;
+    text-transform: none;
+    color: white;
+    margin-top: 0;
+    padding: 20px;
+  
+    
+    display: inline;
+}
+li a:hover {
+    color: lightgray;
+}
+main{
+    margin-top: 45px;
+
+}
+#hldiv{
+    margin-right: 8%;
+    margin-left: 8%;
+}
+
+aside{
+    margin-top: 45px;
+    margin-right: 50px;
+    margin-right: 150px;
+}
