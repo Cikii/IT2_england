@@ -64,6 +64,9 @@ footer{
     margin-top: 55px;
     background-color: #ccc;
 }
+#footer{
+    margin-left: 15%;
+}
 .odkaz:hover{
     color:rgb( 163, 41, 33);
 }
