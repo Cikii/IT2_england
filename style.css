@@ -2,13 +2,14 @@
     height: 95px;
     background-color: rgb(194, 51, 41);
     color: white; 
-    position: sticky;
+    
 }
 
 h1{
-   margin-left: 25px;
+   margin-left: -10%;
    font-size: 5px;
 }
+h3{color: rgb(194, 51, 41);}
 
 ul li{
     display: inline;
@@ -47,4 +48,22 @@ aside{
     margin-top: 45px;
     margin-right: 50px;
     margin-right: 150px;
+}
+
+.frame{
+    border: 2px solid #ccc;
+}
+#tab{
+    margin-top: 15px;
+    background-color: rgb(253, 253, 253);
+}
+figcaption{color: rgb(143, 143, 143);}
+.odkaz{color: rgb(194, 51, 41);}
+
+footer{
+    margin-top: 55px;
+    background-color: #ccc;
+}
+.odkaz:hover{
+    color:rgb( 163, 41, 33);
 }
