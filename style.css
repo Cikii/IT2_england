@@ -70,3 +70,10 @@ footer{
 .odkaz:hover{
     color:rgb( 163, 41, 33);
 }
+.active{
+    background-color: rgb(194, 51, 41)!important;
+    border: none!important;
+}
+#prnadpis{
+    margin-top: 20px;
+}
