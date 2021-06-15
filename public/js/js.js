@@ -4,3 +4,5 @@ $(document).ready(function(){
         $('#popis').text("Vlajka Británie");    
     }); 
   });    
+
+  

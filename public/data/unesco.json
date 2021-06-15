@@ -1,0 +1,35 @@
+[
+    {
+       "id":"stonehenge",
+       "locality":"Stonehenge",
+       "year":1986,
+       "photo":"stonehenge.jpg",
+       "description":"Název „Stonehenge“ zřejmě pochází ze staré angličtiny,[1] ale není známo, co přesně znamená. Existují dvě hlavní teorie,[zdroj?] které se liší pouze v druhé polovině názvu. Obě teorie tvrdí, že první polovina názvu „Stone“ (ve staroangličtině „stān“) znamená „kámen“. První z těchto teorií však říká, že druhá polovina názvu, staroanglické slovo „hencg“, znamená „henge“, tedy v překladu „šibenice“. Druhá tvrdí, že toto slovo (tentokrát „hinge“) znamená „zavěšený“. Není tedy jasné, jestli je pravým názvem „Kamenná šibenice“ nebo „Zavěšený kámen“.V dnešní angličtině se slovo „henge“ překládá jako příkop a za ním val. Tímto systémem „zabezpečení“ bývala stavba Stonehenge dokola obehnána. Příkop a za ním val můžeme vidět například i kolem megalitického kruhu v Avebury.",
+       "url":"https://whc.unesco.org/en/list/373"
+    },
+    {
+       "id":"blenheim",
+       "locality":"Blenheimský palác",
+       "year":1987,
+       "photo":"blenheim.jpg",
+       "description":"Blenheimský palác je rozlehlé a velkolepé anglické venkovské sídlo, umístěné v městečku Woodstock, v hrabství Oxfordshire. Kromě biskupských rezidencí se jedná o jediné venkovské sídlo v Anglii, které má oprávnění nazývat se palácem. Postaven byl v letech 1705–1724 jako dar anglického národa pro vojevůdce a politika Johna Churchilla, vévodu z Marlborough po jeho důležitém vítězství nad francouzsko-bavorskou armádou v bitvě u Höchstädtu v roce 1704 (v anglofonním světě známá jako bitva u Blenheimu).",
+       "url":"https://whc.unesco.org/en/list/425"
+    },
+    {
+       "id":"ironbridge",
+       "locality":"Iron Bridge",
+       "year":1986,
+       "photo":"ironbridge.jpg",
+       "description":"Ironbridge je první litinový most na světě a symbol průmyslové revoluce. Nachází se v hrabství Shropshire v Anglii asi 8 km od Telfordu ve stejnojmenném městečku Ironbridge a vede přes řeku Severn. Řeka prochází údolím Coalbrookdale, kde byla objevena rozsáhlá ložiska uhlí. Na počátku 18. století zde Abraham Darby I. založil železárny a realizoval řadu vynálezů zlepšujících kvalitu a rychlost výroby litiny.",
+       "url":"https://whc.unesco.org/en/list/371"
+    },
+    {
+       "id":"hadrian",
+       "locality":"Hadrianův val",
+       "year":1987,
+       "photo":"hadrian.jpg",
+       "description":"Hadriánův val (latinsky Vallum Aelium, anglicky Hadrian's Wall) je kamenné a hliněné hraniční opevnění, hradba, zeď a 17 pevností, postavené římským vojskem, táhnoucí se napříč severní Anglií jižně od skotských hranic od pobřeží Severního moře v blízkosti dnešního Newcastle upon Tyne k západu přes dnešní Carlisle až po Maryport na pobřeží Irského moře v délce 117,5 km. Val tvořil po 300 let severní hranici římské říše a měl chránit území na jih od něho před nájezdy severních kmenů ze Skotska. Hadriánův val byl součástí systému opevnění a valů k ochraně severní části, pobřeží a hlavních dopravních cest římské Británie, pro nějž se vžil relativně moderní souhrnný název Limes Britannicus.",
+       "url":"https://whc.unesco.org/en/list/430/"
+    }
+    
+ ]

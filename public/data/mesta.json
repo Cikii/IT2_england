@@ -1,0 +1,51 @@
+[
+    {
+       "id":"london",
+       "city":"Londýn",
+       "peoples":8908081,
+       "sign":"praha-znak.svg",
+       "text":"Londýn (anglicky London s výslovností výslovnost [ˈlʌndən]IPA) je hlavní město Spojeného království Velké Británie a Severního Irska ležící na jihovýchodě země 80 km od ústí řeky Temže. Produkuje 20 % HDP Spojeného království a londýnská City je jedním z největších světových obchodních center."
+    },
+    {
+       "id":"oxford",
+       "city":"Oxford",
+       "peoples":152450,
+       "sign":"brno-znak.svg",
+       "text":"Oxford je město a nemetropolitní distrikt v hrabství Oxfordshire s přibližně 152 tisíci obyvateli. Nachází se zde nejstarší univerzita v zemích používajících angličtinu – University of Oxford. Oxford je označován jako město snové nálady – termín použitý Matthewem Arnoldem s odkazem na harmonickou architekturu univerzitních budov. Městem protéká řeka Temže, která je v úseku asi 15 km známa jako Isis."
+    },
+    {
+       "id":"birmingham",
+       "city":"Birginham",
+       "peoples":1137100,
+       "sign":"ostrava-znak.svg",
+       "text":"Birmingham (výslovnost výslovnost [ˈbɝːmɪŋəm]IPA) je město a distrikt v metropolitním hrabství West Midlands. Svým významem je všeobecně považován za druhé hlavní město (po Londýnu) Velké Británie. Město získalo vážnost jako hnací síla průmyslové revoluce ve Velké Británii. Tento fakt se odrazil v pojmenování města jako továrny světa nebo města tisíce řemesel."
+    },
+    {
+       "id":"cambridge",
+       "city":"Cambridge",
+       "peoples":111000,
+       "sign":"olomouc-znak.svg",
+       "text":"Cambridge (výslovnost výslovnost [ˈkeɪmbrɪdʒ]IPA) je starobylé anglické univerzitní město a administrativní centrum hrabství Cambridgeshire. Nachází se 80 km na severovýchod od Londýna a je obklopeno mnoha malými městy a vesnicemi. Je rovněž považováno za středisko technologického centra Silicon Fen. Nejznámější institucí je Univerzita v Cambridgi."
+    },
+    {
+       "id":"liverpool",
+       "city":"Liverpool",
+       "peoples":513441,
+       "sign":"zlin-znak.svg",
+       "text":"Liverpool se rozkládá na pásmu pahorků vysokých maximálně 70 m. Centrum města se nachází asi 8 km ve vnitrozemí od Liverpoolského zálivu a Irského moře. Počet obyvatel Liverpoolu v roce 2002 dosahoval 441 477 a Merseyská konurbace měla v té době 1 362 026 obyvatel."
+    },
+    {
+       "id":"manchester",
+       "city":"Manchester",
+       "peoples":547627,
+       "sign":"jihlava-znak.gif",
+       "text":"Manchester je významné město a metropolitní distrikt v regionu severozápadní Anglie, historicky významné pro svou roli v průmyslové revoluci. V roce 2017 zde žilo 545 500 obyvatel, v celé metropolitní oblasti zahrnující území hrabství Velký Manchester pak zhruba 2,8 milionu obyvatel."
+    },
+    {
+       "id":"leeds",
+       "city":"Leeds",
+       "peoples":760247,
+       "sign":"ceske-budejovice-znak.svg",
+       "text":"Leeds je město na severu Anglie a centrum metropolitního distriktu City of Leeds, který je součástí metropolitního hrabství West Yorkshire. Městem protéká řeka Aire. Podle výsledků sčítání obyvatel z roku 2001 má Leeds (jádro) 300 000 obyvatel, zatímco distrikt City of Leeds (celé město Leeds) má 700 000 obyvatel, žijících na ploše 551 km2."
+    }
+ ]
